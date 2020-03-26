@@ -5448,7 +5448,7 @@ section.lazy-placeholder:after {
 }
 .cid-rUmnedklbN {
   padding-top: 135px;
-  padding-bottom: 75px;
+  padding-bottom: 135px;
 }
 .cid-rUmnedklbN .card-box {
   padding: 0 2rem;
@@ -5484,6 +5484,24 @@ section.lazy-placeholder:after {
 .cid-rUmnedklbN .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-rUmM5GoRsD {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rUmM5GoRsD .mbr-text {
+  color: #767676;
+}
+.cid-rUmM5GoRsD h4 {
+  text-align: center;
+}
+.cid-rUmM5GoRsD p {
+  text-align: center;
+}
+.cid-rUmM5GoRsD .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-rUmq12PM2n {
   padding-top: 15px;
