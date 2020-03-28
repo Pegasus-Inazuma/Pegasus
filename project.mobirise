@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PEGASUS INAZUMA",
-    "currentPage": "tourniegalx3.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,10 +54,21 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "gdpr": false,
-    "cookiesAlert": false,
-    "uniqCompNum": 133,
+    "uniqCompNum": 135,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": {
+      "customDialogSelector": true,
+      "colorText": "#424a4d",
+      "colorBg": "#efefef",
+      "colorButton": "#ff0000",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "N'oubliez pas de rejoindre le serveur <a href='https://discord.gg/TGvV2qN' target=_blank>DISCORD</a>     :)",
+      "textButton": "ACCEPTER & FERMER"
+    }
   },
   "pages": {
     "home.html": {
@@ -611,7 +622,7 @@
       "settings": {
         "meta_descr": "Tournois eSport Inazuma Eleven dans le monde entier !\nCatégorie Inazuma Eleven Go STrikers 2013 !",
         "title": "Inazuma Eleven GS 2013",
-        "order": 16,
+        "order": 17,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -1191,7 +1202,7 @@
       "settings": {
         "meta_descr": "Tournois eSport Inazuma Eleven dans le monde entier !\nCatégorie règlement Inazuma Eleven Go Strikers 2013 !",
         "title": "Règlement IE GS 2013",
-        "order": 15,
+        "order": 16,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -1645,7 +1656,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi IEGS 2013",
-        "order": 5,
+        "order": 6,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -2234,7 +2245,7 @@
       "settings": {
         "meta_descr": "Tous les tournois planifier sur Inazuma Eleven Go Strikers 2013",
         "title": "Liste Tournois IE GS 2013",
-        "order": 4,
+        "order": 5,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -2943,7 +2954,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi 2 IEGS 2013",
-        "order": 7,
+        "order": 8,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -3532,7 +3543,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi 3  IEGS 2013",
-        "order": 9,
+        "order": 10,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -4121,7 +4132,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi 4 IEGS 2013",
-        "order": 11,
+        "order": 12,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -4710,7 +4721,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi 5 IEGS 2013",
-        "order": 13,
+        "order": 14,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -5299,7 +5310,7 @@
       "settings": {
         "meta_descr": "Venez voir tous les tournois Inazuma Eleven ! ",
         "title": "Tous les tournois | PEGASUS INAZUMA",
-        "order": 2,
+        "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -5922,7 +5933,7 @@
       "settings": {
         "meta_descr": "Tournois eSport Inazuma Eleven dans le monde entier !\nCatégorie règlement Inazuma Eleven SD !",
         "title": "Règlement IE SD",
-        "order": 18,
+        "order": 19,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -6376,7 +6387,7 @@
       "settings": {
         "meta_descr": "Tournois eSport Inazuma Eleven dans le monde entier !\nCatégorie Inazuma Eleven SD !",
         "title": "Inazuma Eleven SD",
-        "order": 19,
+        "order": 20,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -6956,7 +6967,7 @@
       "settings": {
         "meta_descr": "Tous les tournois planifier sur Inazuma Eleven SD",
         "title": "Liste Tournois SD",
-        "order": 3,
+        "order": 4,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -7665,7 +7676,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi IE SD",
-        "order": 6,
+        "order": 7,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -8254,7 +8265,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi 2 IE SD",
-        "order": 8,
+        "order": 9,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -8843,7 +8854,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi 3 IE SD",
-        "order": 10,
+        "order": 11,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -9432,7 +9443,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi 4 IE SD",
-        "order": 12,
+        "order": 13,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -10021,7 +10032,7 @@
       "settings": {
         "meta_descr": "Premier tournoi, ceci est une présentation d'essai !",
         "title": "Tournoi 5 IE SD",
-        "order": 14,
+        "order": 15,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -10610,7 +10621,7 @@
       "settings": {
         "meta_descr": "Tournois eSport Inazuma Eleven dans le monde entier !\nCatégorie Inazuma Eleven SD !",
         "title": "Inazuma Eleven SD",
-        "order": 17,
+        "order": 18,
         "meta_image": "@PROJECT_PATH@/assets/images/pegie2-1.png"
       },
       "components": [
@@ -11190,7 +11201,7 @@
       "settings": {
         "meta_descr": "INAZUMA ELEVEN GO GALAXY TOURNAMENT #3",
         "title": "Inazuma Galaxy",
-        "order": 1,
+        "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/61cfn1ckrll.-sy355-.jpg"
       },
       "components": [
