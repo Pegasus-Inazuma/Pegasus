@@ -57,9 +57,7 @@
     "cookiesAlert": false,
     "uniqCompNum": 133,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "home.html": {
