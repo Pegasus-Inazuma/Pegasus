@@ -49,11 +49,10 @@
     ],
     "favicon": false,
     "imageResize": true,
-    "robotsSwitcher": true,
+    "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://pegasus.own-esport.fr/",
-    "gdpr": false,
     "uniqCompNum": 139,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
@@ -83,14 +82,15 @@
     "witsec-mailform-recaptcha-score": "0.5",
     "witsec-mailform": false,
     "witsec-white-label": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "gdpr": false
   },
   "pages": {
     "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Tournois eSport Inazuma Eleven dans le monde entier !",
+        "meta_descr": "Tournois eSport Inazuma Eleven dans le monde entier !\nTotalement gratuit avec PEGASUS INAZUMA !",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
